@@ -19,6 +19,8 @@ When you wanted to test a change without impacting the base code.
 
 How do the diagrams help you visualize the branch structure?
 
+They allow you to see the Branch releationship and highlight unreachable nodes.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
