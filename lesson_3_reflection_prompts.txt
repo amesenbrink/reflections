@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
   It is a good idea to keep a backup copy of your code on some external storage.  It is also 
   useful for sharing code with others.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  If you manually make changes it gives you the oppertunity to make sure your code is stable and the save/commit point is locical.
+
+
