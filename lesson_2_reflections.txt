@@ -24,5 +24,7 @@ They allow you to see the Branch releationship and highlight unreachable nodes.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of the merged brances is that the features in both branches are merged back into a single branch.  The diagram shows that the 2 different branches were brought back into a single branch.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
