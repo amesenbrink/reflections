@@ -11,4 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
     remote repository other than github.
   A branch is a copy of the code that is used to investigate other options or features, it is not a full copy of all the current changes in the project.
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  The benifit to keeping the last known state local is so that you can revert changes if you need to, or 
+  even do a fast forward merge.
