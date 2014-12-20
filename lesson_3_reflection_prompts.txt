@@ -3,6 +3,6 @@ When would you want to use a remote repository rather than keeping all your work
   useful for sharing code with others.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-  If you manually make changes it gives you the oppertunity to make sure your code is stable and the save/commit point is locical.
+  If you manually make changes it gives you the oppertunity to make sure your code is stable and the save/commit point a logical change.
 
 
